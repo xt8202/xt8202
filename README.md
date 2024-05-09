@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Kelvin Carrión
-- 👀 I'm interested in learning frontend, backend, machine learning, and artificial intelligence.
+- 👀 I'm interested in learning python, machine learning, and artificial intelligence.
 - 🌱 I'm currently learning DevOps and Node.js with AWS.
 - ⚡ Fun fact: I practice Muay Thai, and my favorite hobby is rollerblading
 
